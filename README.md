@@ -1,0 +1,3 @@
+# 🧮 Calculadora Simples
+
+Uma calculadora básica desenvolvida em **JavaScript**, **HTML** e **CSS**, que permite realizar operações matemáticas simples como soma, subtração, multiplicação e divisão. Conta também com as funções de limpar (`C`) e apagar o último caractere (`⌫`). Para utilizar, basta clonar este repositório com `git clone https://github.com/seu-usuario/calculadora.git`, acessar a pasta do projeto com `cd calculadora` e abrir o arquivo `index.html` no navegador. O projeto foi construído utilizando **HTML5**, **CSS3** e **JavaScript**, e está disponível para uso livre, podendo ser modificado e melhorado conforme a necessidade.
